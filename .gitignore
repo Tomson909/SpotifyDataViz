@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# data, Task exclude
+/data
+/Task
+
+# exclude access
+access_token.txt
+secret.json
+
 # C extensions
 *.so
 
